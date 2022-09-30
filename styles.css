@@ -1,0 +1,548 @@
+/* Don't touch my xx-info BAKA. The.mdo founder of klaster 16-09-2021 */
+a:link {
+  text-decoration: none;
+}
+.xx-apc, .cc-apc {
+  float: right;
+  text-align: center;
+  margin: 10px 0px 0px 0px;
+  }
+.xx-akp, .cc-akp {
+  height: 250px;
+  box-shadow: rgba(0, 2, 2, 0.495) 0px 0px 5px 3px;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 5px;
+  text-align: center;
+  }
+.xx-title{
+  font-size: 20px;
+  margin: 10px 10px;
+  font-family: Carter One;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 5px #000;
+  color: #fff;
+  }
+.xx-play {
+    font-size: 18px;
+    text-shadow: 2px 1px #000;
+    text-align: center;
+    background-image: linear-gradient(to left, #9a0a2d, #e40e42, #9a0a2d);
+    border-radius: 30px;
+    margin: 10px 10px 20px 10px;
+    line-height: 10px;
+    color: #fff;
+    padding: 14px;
+    position: relative;
+    box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px
+}
+.xx-back {
+    font-size: 18px;
+    text-shadow: 2px 1px #000;
+    text-align: center;
+    background-image: linear-gradient(to left, #9a0a2d, #e40e42, #9a0a2d);
+    border-radius: 30px;
+    margin: 10px 10px 5px 10px;
+    line-height: 10px;
+    color: #fff;
+    padding: 10px;
+    position: relative;
+    box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px
+}
+input,
+textarea,
+button,
+select,
+a {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+   outline: none;
+}
+.xx-main, .cc-main, .cc-main {
+  float: left;
+  text-align:right;
+  margin: 0px;
+  width: 100%;
+  font-family: Cairo;
+  padding-bottom: 5px;
+  }
+.xx-box {
+    font-size: 13px;
+    font-family: Cairo;
+    background-color: #74747420;
+    border-radius: 10px;
+    text-align: right; 
+    line-height: 24px;
+    margin: 0px 10px 10px 10px;
+    padding: 5px 10px 10px 10px;
+    background-size: cover;
+    font-weight:normal;
+    box-shadow: rgb(0 2 2 / 20%) 0px 1px 2px 1px;
+}
+.xx-info {width: 100%;
+  font-size: 13px;
+  text-align: right;
+  font-family: Cairo;
+  }
+.xx-button, .xx-button1 {
+background-image: linear-gradient(to top right, #9a0a2d, #e40e42);
+color: #fff;  border-radius: 20px;
+  border: 1px solid #000;
+  padding: 0px 8px;
+  font-size: 11px;
+  font-family: Cairo;
+  line-height: 18px;
+  }
+
+.xx-year, .xx-age, .xx-rate {
+color: #c62048;
+font-weight:bold;
+}
+.xx-age:hover{color: #ff0000;}
+.xx-year:hover{color: #ff0000;}
+.xx-rate:hover{color: #ff0000;}
+.xx-age:visited{color: #ff0000;}
+.xx-year:visited{color: #ff0000;}
+.xx-rate:visited{color: #ff0000;}
+
+.xx-ar {
+font-size: 13px;
+display:nmone;
+  }
+.xx-t1, .xx-t2, .xx-t3, .xx-ts, .nsv-0, .nsv-1, .nsv-2, .nsv-3, .nsv-4, .nsv-5 {
+font-size: 13px;
+font-weight: bold;
+margin:0px;
+}
+.xx-tx1, .xx-tx2 {
+font-size: 13px;
+font-weight: bold;
+margin-bottom:7px;
+}
+.xx-fbm:before {content: "عائلي دموي منحرف";}
+.xx-t1:before {content:"بيانات الأنمي ";}
+.xx-t2:before {content:"التصنيفات ";}
+.xx-tx1:before {content:"أشهر الأنميات ";}
+.xx-tx2:before {content:"أحدث الأنميات ";}
+.xx-t3:before {content:"القصة ";}
+.xx-ts:before {content:"السيرفرات ";}
+.nsv-1:before {content:"AK ";}
+.nsv-3:before {content:"SD ";}
+.nsv-5:before {content:"HD ";}
+.footer-msg:before {content:"U_U فرجة ممتعة ";}
+
+.xx-tags {width: 100%;
+  font-size: 13px;
+  text-align: center;
+  line-height: 3px;
+  font-family: Cairo;
+  margin:10px 0px 10px 0px;
+  }
+#mpgx {
+  width: 100%;
+  background-color: #000;
+  BORDER-radius:30px;
+  margin:8px 0;}
+#mnh, #fam, #bld {
+  height: 10px;
+  background-color: #e40e42;
+  BORDER-radius:30px;}
+.xx-fbm {font-size:12px; width:50px; font-weight:bold; line-height:20px;}
+.xx-yt {font-size:30px; background-color:#f0f2f5; border-radius:62px; width:62px; box-shadow:rgb(0 0 0 / 40%) 0px 0px 1px 1px;}
+
+
+@media only screen and (max-width: 500.555px) {
+  /* For mobile phones: */
+  .xx-main, .cc-main, .cc-main {
+    width: 100%;
+    text-align:center;
+  }
+  .xx-apc, .cc-apc {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  /* For laptops: */
+  .xx-apc, .cc-apc {
+    width: 35%;}
+  .xx-main, .cc-main, .cc-main {
+    width: 65%;
+    margin: 0px;
+  }
+.xx-akp, .cc-akp {
+  height: 180px;
+  }
+}
+
+
+.xx-3info {width: 100%;
+  font-size: 15px;
+  text-align: center;
+  font-family: Cairo;
+  line-height:20px;
+  font-weight: bold;
+  }
+  .xt1, .xt7 {width:30px;}
+/* Don't touch my xx-episodes BAKA. The.mdo founder of klaster 16-09-2021 */
+
+#xx-input {
+    width: 130px;
+    border: 0px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 30px;
+    padding: 4px;
+    position: fixed;
+    outline: none;
+    top: 20px;
+    right: 10px;
+    box-shadow: rgb(0 0 0 / 40%) 0px 0px 2px 1px;
+    background-color: #ffffff;
+    font-family: 'Cairo';
+}
+
+#xx-ul {
+  list-style-type: none;
+  list-style:none;
+  padding: 0;
+  margin: 0;
+}
+
+#xx-ul li h4 {
+  list-style:none;
+  background-color: #292a30;
+  padding: 9px 10px 10px 10px;
+  margin: 15px; 
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
+    font-family: Cairo;
+    border-radius: 2em / 5em;
+    box-shadow:0px 0px 3px 2px #0000004f;
+    line-height: 15px;
+    text-align: right;
+}
+
+
+/* Don't touch my xx-icons BAKA. The.mdo founder of klaster 16-09-2021 */
+.fa-caret-down {color: #e82525; font-size: 20px;}
+.fa-caret-down {color: #e82525; font-size: 20px;}
+td, th {padding: 0px;}
+.fa-youtube {color: #e40e42;}
+
+.xxic1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f7e4";
+      }
+.xxic2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0c3";
+      }
+.xxicx1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f7e4";
+      }
+.xxicx2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f017";
+      }
+.xxic3::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f10e";
+      }
+
+.zzic1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0c6";
+        color:  #cecece;
+      }
+.zzicx1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0c6";
+        color:  #cecece;
+      }
+.zzicx2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0c6";
+        color:  #cecece;
+      }
+.zzic2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0c6";
+        color:  #cecece;
+      }
+.zzic3::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0c6";
+        color:  #cecece;
+      }
+.xxicplay:before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f04b";
+        font-weight: 900;
+      }
+.xxicback:before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f05a";
+        font-weight: 900;
+      }
+
+.xtic1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f071";
+        font-weight: 900;
+        xcolor: #424242;
+      }
+.xtic2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f073";
+        font-weight: 900;
+      }
+.xtic3::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f005";
+        font-weight: 900;
+      }
+
+.xtic1, .xtic2, .xtic3 {
+        margin-right: 4px;
+      }
+.zzicx1, .zzicx2, .zzic1, .zzic2, .zzic3 {
+        float: left;
+      }
+
+.sic0::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f358";
+      }
+.sic1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f144";
+      }
+.sic2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f358";
+      }
+.sic3::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f144";
+      }
+.sic4::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f358";
+      }
+.sic5::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f144";
+      }
+.wic1::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f144";
+      }
+.wic2::before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f358";
+      }
+  
+.tag-harem, .tag-action, .tag-shounen, .tag-sports, .tag-games, .tag-micha, .tag-ecchi, .tag-shoujou, .tag-sci-fi, .tag-drama, .tag-demons, .tag-army, .tag-fantasy, .tag-comedy, .tag-mystery, .tag-vampire, .tag-unn, .tag-history, .tag-nlife, .tag-seinen, .tag-romance, .tag-romance, .tag-super, .tag-powers, .tag-horror, .tag-psycho, .tag-school, .tag-music, .tag-thriller, .tag-crime, .tag-shoujo, .tag-police, .tag-jussi, .tag-thriller, .tag-isekai, .tag-magic, .tag-fights, .tag-nlife, .tag-adventure, .tag-VG, .tag-animeism, .tag-manga, .tag-BR, .tag-HSG, .tag-manga, .tag-short, .tag-chinese, .tag-novel, .tag-manga, .tag-manga, .tag-gl, .tag-original, .tag-hsg, .tag-vg:before {
+    font-size: 11px;
+    font-family: Cairo;
+    background-color: #292a30;
+    color: #fff;
+    border-radius: 15px;
+    padding: 0px 6px;
+    margin: 2px;
+    border: 1px solid #ffffff4a;
+}
+.simil:before {content:"نسبة الشبه ";}
+.seas:before {content: "الموسم ";}
+.score:before {content: "المرتبة ";}
+.box-sim:before {content: "أنميات مشابهة ";}
+
+
+
+
+.xx-fbm:before {content: "عائلي دموي منحرف";}
+
+
+.tag-manga:before {content: "مبني على مانجا";}
+.tag-vg:before {content: "مبني على لعبة.فيديو";}
+.tag-novel:before {content: "مبني على رواية";}
+.tag-original:before {content: "عمل أصلي";}
+
+.tag-gl:before {content: "حب بين فتاتين";}
+.tag-hsg:before {content: "ألعاب مميتة";}
+.tag-action:before {content: "اكشن";}
+
+.tag-short:before {content: "حلقات قصيرة";}
+.tag-chinese:before {content: "صيني";}
+.tag-action:before {content: "اكشن";}
+.ak-jap:before {content: "ياباني";}
+.ak-eng:before {content: "انجليزي";}
+.tag-sports:before {content: "رياضي";}
+.tag-shounen:before {content: "شونين";}
+.tag-drama:before {content: "دراما";}
+.tag-army:before {content: "عسكري";}
+.tag-demons:before {content: "شياطين";}
+.tag-fantasy:before {content: "فانتازيا";}
+.tag-mystery:before {content: "غموض";}
+.tag-comedy:before {content: "كوميدي";}
+.tag-vampire:before {content: "مصاصي_دماء";}
+.tag-unn:before {content: "خارق_للطبيعة";}
+.tag-history:before {content: "تاريخي";}
+.tag-seinen:before {content: "سينين";}
+.tag-romance:before {content: "رومانسي";}
+.tag-horror:before {content: "رعب";}
+.tag-psycho:before {content: "نفسي";}
+.tag-shoujo:before {content: "شوجو";}
+.tag-sci-fi:before {content: "خيال_علمي";}
+.tag-games:before {content: "العاب";}
+.tag-ecchi:before {content: "ايتشي";}
+.tag-micha:before {content: "ألات";}
+.tag-harem:before {content: "حريم";}
+.tag-fights:before {content: "فنون_قتال";}
+.tag-nlife:before {content: "شريحة_من_الحياة";}
+.tag-adventure:before {content: "مغامرات";}
+.tag-music:before {content: "موسيقي";}
+.tag-magic:before {content: "سحر";}
+.tag-powers:before {content: "قوى_خارقة";}
+.tag-school:before {content: "مدرسي";}
+.tag-crime:before {content: "جريمة";}
+.tag-shoujo a:before {content: "شوجو آي";}
+.tag-police:before {content: "بوليسي";}
+.tag-jussi:before {content: "جوسي";}
+.tag-thriller:before {content: "إثارة";}
+.tag-isekai:before {content: "إيسيكاي";}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* Don't touch my episodes BAKA. The.mdo founder of klaster 30-04-2022 */
+
+.navbarx, .nsv-0x, .nsv-0, .nsv-1x, .nsv-1, .nsv-2x, .nsv-3x, .nsv-4x, .nsv-5x, .nsv- {
+  display: none;
+}
+.navbar {
+    list-style: none;
+  background-image: linear-gradient(to top right, #191a1f90, #191a1f40);
+    padding: 10px 10px;
+    margin: 15px 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    display: block;
+    font-family: Cairo;
+    border-radius: 20px;
+    line-height: 15px;
+    text-align: right;
+    height: 30px;
+}
+
+
+.navbar a {
+  text-decoration: none;  float: right;
+}
+.nsv-x1 {
+    font-size: 12px;
+    font-family: Cairo;
+    text-shadow: 2px 1px 2px #000;
+    background-image: linear-gradient(to top, #121316, #18191e);
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin-right: 0px;}
+
+.nsv-0 {
+    font-size: 12px;
+    font-family: Cairo;
+    text-shadow: 2px 1px 2px #000;
+    background-image: linear-gradient(to top, #121316, #18191e);
+    border-radius: 15px;
+    padding: 5px 8px;
+}
+.nsv-2, .nsv-4 {
+    font-size: 12px;
+    font-family: Cairo;
+    text-shadow: 2px 1px 2px #000;
+    background-image: linear-gradient(to top, #121316, #18191e);
+    border-radius: 15px;
+    padding: 5px 8px;
+    margin-right: 5px;
+}
+.nsv-3, .nsv-5, .nsv-1 {
+font-size: 12px;
+    font-family: Cairo;
+    text-shadow: 2px 1px 2px #000;
+    background-image: linear-gradient(to top, #121316, #18191e);
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin-right: 0px;
+}
+.xep {
+  float: left;
+  overflow: hidden;
+}
+.xepx {
+  overflow: hidden;
+}
+.xx-ts {
+  font-size: 12px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 6px 10px;
+  background-image: linear-gradient(to top, #121316, #18191e);
+  margin: 0;
+  border-radius: 20px;}
+
+.xx-mplay {
+    font-size: 18px;
+    text-shadow: 2px 1px #000;
+    text-align: center;
+    background-image: linear-gradient(to left, #9a0a2d, #e40e42, #9a0a2d);
+    border-radius: 30px;
+    margin: 10px 10px 20px 10px;
+    line-height: 10px;
+    color: #fff;
+    padding: 14px;
+    position: relative;
+    box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px;
+}
+
+.xep-content {
+display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    z-index: 1;
+    margin-top: -36px;
+    background-image: linear-gradient(to top right, #9c0a2d, #e40e42);
+    border-radius: 30px;
+    padding: 10px 5px;
+    right: 10px;
+}
+.xepx-content {
+display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    z-index: 1;
+    margin-top: -36px;
+    background-image: linear-gradient(to top right, #9c0a2d, #e40e42);
+    border-radius: 30px;
+    padding: 10px 5px;
+    right: 10px;
+}
+.en {
+  color: white;
+  padding: 0px;
+  float: right;
+}
+.xep:hover .xep-content {
+  display: block;
+}
+xepx:hover .xepx-content {
+  display: block;
+}
