@@ -73,7 +73,7 @@ a {
     text-align: right; 
     line-height: 24px;
     margin: 0px 10px 10px 10px;
-    padding: 5px 0px 10px 0px;
+    padding: 5px 10px 5px 10px;
     background-size: cover;
     font-weight:normal;
     box-shadow: rgb(0 2 2 / 20%) 0px 1px 2px 1px;
@@ -512,7 +512,6 @@ font-size: 12px;
     position: relative;
     box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px;
 }
-
 .xep-content {
 display: none;
     position: absolute;
