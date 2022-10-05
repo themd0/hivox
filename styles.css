@@ -1,4 +1,4 @@
-/* Don't touch my xx-info BAKA. The.mdo founder of klaster 16-09-2021 */
+  /* Don't touch my xx-info BAKA. The.mdo founder of klaster 16-09-2021 */
 a:link {
   text-decoration: none;
 }
@@ -72,8 +72,8 @@ a {
     border-radius: 10px;
     text-align: right; 
     line-height: 24px;
-    margin: 0px 10px 10px 10px;
-    padding: 5px 10px 5px 10px;
+    margin: 0px 3px 10px 3px;
+    padding: 5px 10px 10px 10px;
     background-size: cover;
     font-weight:normal;
     box-shadow: rgb(0 2 2 / 20%) 0px 1px 2px 1px;
@@ -124,7 +124,6 @@ margin-bottom:7px;
 .xx-tx1:before {content:"أشهر الأنميات ";}
 .xx-tx2:before {content:"أحدث الأنميات ";}
 .xx-t3:before {content:"القصة ";}
-.xx-ts:before {content:"السيرفرات ";}
 .nsv-1:before {content:"AK ";}
 .nsv-3:before {content:"SD ";}
 .nsv-5:before {content:"HD ";}
@@ -232,7 +231,8 @@ td, th {padding: 0px;}
 
 .xxic1::before {
         font-family: "Font Awesome 5 Free";
-        content: "\f7e4";
+        content: "\f04b";
+        color: #fff;
       }
 .xxic2::before {
         font-family: "Font Awesome 5 Free";
@@ -429,19 +429,18 @@ td, th {padding: 0px;}
 }
 .navbar {
     list-style: none;
-  background-image: linear-gradient(to top right, #191a1f90, #191a1f40);
+    background-color: #74747420;
     padding: 10px 10px;
     margin: 15px 10px;
     text-decoration: none;
-    font-size: 18px;
-    color: #fff;
+    font-size: 16px;
     display: block;
     font-family: Cairo;
     border-radius: 20px;
     line-height: 15px;
     text-align: right;
-    height: 30px;
-}
+    height: 25px;
+    box-shadow: rgb(0 2 2 / 20%) 0px 1px 2px 1px;}
 
 
 .navbar a {
@@ -493,9 +492,8 @@ font-size: 12px;
   font-size: 12px;  
   border: none;
   outline: none;
-  color: white;
-  padding: 6px 10px;
-  background-image: linear-gradient(to top, #121316, #18191e);
+  padding: 6px 8px;
+  background-image: linear-gradient(to left, #9a0a2d, #e40e42, #9a0a2d);
   margin: 0;
   border-radius: 20px;}
 
@@ -512,6 +510,7 @@ font-size: 12px;
     position: relative;
     box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px;
 }
+
 .xep-content {
 display: none;
     position: absolute;
@@ -523,25 +522,11 @@ display: none;
     padding: 10px 5px;
     right: 10px;
 }
-.xepx-content {
-display: none;
-    position: absolute;
-    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
-    z-index: 1;
-    margin-top: -36px;
-    background-image: linear-gradient(to top right, #9c0a2d, #e40e42);
-    border-radius: 30px;
-    padding: 10px 5px;
-    right: 10px;
-}
+
 .en {
-  color: white;
   padding: 0px;
   float: right;
 }
 .xep:hover .xep-content {
-  display: block;
-}
-xepx:hover .xepx-content {
   display: block;
 }
