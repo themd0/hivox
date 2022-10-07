@@ -16,12 +16,7 @@ function myFunction() {
 }
 
 
-
-
-<script type="text/javascript" src="//code.jquery.com/jquery-1.7.1.js"></script>
-<script type="text/javascript">
 $('.nsv-5').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.anifort.player'));
 });
-</script>
 
