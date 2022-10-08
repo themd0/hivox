@@ -19,7 +19,7 @@ $('.tag-harem, .tag-action, .tag-shounen, .tag-sports, .tag-games, .tag-micha, .
   $(this).attr('href', $(this).attr('href').replace('/p/','#'));
 });
 
-$('.nsv-3, .nsv-5').each(function() {
+$('.nsv-3').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.anifort.player'));
 });
 
