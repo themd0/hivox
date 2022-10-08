@@ -15,8 +15,10 @@ function myFunction() {
     }
 }
 
-$('.tag-manga').each(function() {
-  $(this).attr('href', $(this).attr('href').replace('/p/','#'));
+
+
+$('.nsv-5').each(function() {
+  $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.anifort.player'));
 });
 
 
