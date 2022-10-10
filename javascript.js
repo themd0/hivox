@@ -17,7 +17,7 @@ function toggleDiv(divid)
     }
 } 
 
-$('.nsv-3').each(function() {
+$('.nsv-5').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.anifort.player'));
 });
 
