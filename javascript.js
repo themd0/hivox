@@ -29,3 +29,7 @@ $('.nsv-5').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.anifort.player'));
 });
 
+Array.from(document.querySelectorAll('img')).forEach(x => {
+  x.src = x.src.replace(/large/,'medium')
+  console.log(x);
+});
