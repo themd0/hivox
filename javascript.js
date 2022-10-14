@@ -25,7 +25,7 @@ $('.nsv-4').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.dv.adm'));
 });
 
-$('.nsv-5').each(function() {
+$('.nsv-5, .ak-but-h, .ak-but-s').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?package=com.anifort.player'));
 });
 
