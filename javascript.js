@@ -18,7 +18,7 @@ function toggleDiv(divid)
 } 
 
 $('.nsv-3, .ak-but-h, .ak-but-s, .w-ak-360, .w-ak-720').each(function() {
-  $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?target=external'));
+  $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?target=video'));
 });
 
 $('.nsv-2, .nsv-4, .d-ak-360, .d-ak-720').each(function() {
@@ -26,5 +26,5 @@ $('.nsv-2, .nsv-4, .d-ak-360, .d-ak-720').each(function() {
 });
 
 $('.nsv-5').each(function() {
-  $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?target=external'));
+  $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?target=video'));
 });
