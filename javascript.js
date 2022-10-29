@@ -1,22 +1,3 @@
-function toggleDiv(divid)
-  {
- 
-    varon = divid + 'on';
-    varoff = divid + 'off';
- 
-    if(document.getElementById(varon).style.display == 'block')
-    {
-    document.getElementById(varon).style.display = 'none';
-    document.getElementById(varoff).style.display = 'block';
-    }
-   
-    else
-    {  
-    document.getElementById(varoff).style.display = 'none';
-    document.getElementById(varon).style.display = 'block'
-    }
-} 
-
 var divs = ["Menu1", "Menu2", "Menu3", "Menu4", "Menu5", "Menu6", "Menu7"];
 var visibleDivId = null;
 function toggleVisibility(divId) {
@@ -39,6 +20,26 @@ function hideNonVisibleDivs() {
     }
   }
 }
+
+
+function toggleDiv(divid)
+  {
+ 
+    varon = divid + 'on';
+    varoff = divid + 'off';
+ 
+    if(document.getElementById(varon).style.display == 'block')
+    {
+    document.getElementById(varon).style.display = 'none';
+    document.getElementById(varoff).style.display = 'block';
+    }
+   
+    else
+    {  
+    document.getElementById(varoff).style.display = 'none';
+    document.getElementById(varon).style.display = 'block'
+    }
+} 
 
 $('.nsv-3, .ak-but-h, .ak-but-s, .w-ak-360, .w-ak-720').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?target=video'));
