@@ -29,7 +29,8 @@ $('.nsv-5').each(function() {
   $(this).attr('href', $(this).attr('href').replace('.mp4','.mp4?/?target=video'));
 });
 
-var divs = ["nseasonx", "nseasony", "nseasonz", "nseason1", "nseason2", "nseason3", "nseason4", "nseason5", "nseason6", "nseason7"];
+
+var divs = ["nseason1", "nseason2", "nseason3", "nseason4", "nseason5", "nseason6", "nseason7"];
 var visibleDivId = null;
 function toggleVisibility(divId) {
   if(visibleDivId === divId) {
