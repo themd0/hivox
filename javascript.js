@@ -30,7 +30,7 @@ $('.nsv-5').each(function() {
 });
 
 
-var divs = ["nseason1", "nseason2", "nseason3", "nseason4", "nseason5", "nseason6", "nseason7"];
+var divs = ["nseason1", "nseason2", "nseason3", "nseason4", "nseason5", "nseason6", "nseason7", "nseasonx", "nseasony"];
 var visibleDivId = null;
 function toggleVisibility(divId) {
   if(visibleDivId === divId) {
