@@ -1,6 +1,14 @@
-  /* Don't touch my xx-info BAKA. The.mdo founder of klaster 16-09-2021 */
+    /* Don't touch my xx-info BAKA. The.mdo founder of klaster 16-09-2021 */
 a:link {
   text-decoration: none;
+}
+
+.fly-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: block;
+  width: 30px;
 }
 .xx-apc, .cc-apc {
   float: right;
@@ -27,14 +35,14 @@ a:link {
     font-size: 18px;
     text-shadow: 2px 1px #000;
     text-align: center;
-    background-image: linear-gradient(to left, #9a0a2d, #e40e42, #9a0a2d);
+    background-image: linear-gradient(to left, #9a0a2d, #c62048, #9a0a2d);
     border-radius: 30px;
-    margin: 10px 10px 20px 10px;
+    margin: 10px;
     line-height: 10px;
     color: #fff;
     padding: 14px;
     position: relative;
-    box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px
+    box-shadow: rgb(0 0 0 / 0%) 0px 0px 2px 1px;
 }
 .xx-back {
     font-size: 18px;
@@ -65,26 +73,27 @@ a {
   font-family: Cairo;
   padding-bottom: 5px;
   }
-.xx-box {
+.xx-box, .s-box {
     font-size: 13px;
     font-family: Cairo;
     background-color: #74747420;
     border-radius: 10px;
     text-align: right; 
     line-height: 24px;
-    margin: 0px 3px 10px 3px;
+    margin: 10px 3px 0px 3px;
     padding: 5px 10px 10px 10px;
     background-size: cover;
     font-weight:normal;
     box-shadow: rgb(0 2 2 / 20%) 0px 1px 2px 1px;
 }
+.xx-24min {color: #c62048;}
 .xx-info {width: 100%;
   font-size: 13px;
   text-align: right;
   font-family: Cairo;
   }
 .xx-button, .xx-button1 {
-background-image: linear-gradient(to top right, #9a0a2d, #e40e42);
+background-image: linear-gradient(to top right, #9a0a2d, #c62048);
 color: #fff;  border-radius: 20px;
   border: 1px solid #000;
   padding: 0px 8px;
@@ -94,19 +103,16 @@ color: #fff;  border-radius: 20px;
   }
 
 .xx-year, .xx-age, .xx-rate {
-color: #c62048;
+color: #808080;
 font-weight:bold;
 }
-.xx-age:hover{color: #ff0000;}
-.xx-year:hover{color: #ff0000;}
-.xx-rate:hover{color: #ff0000;}
-.xx-age:visited{color: #ff0000;}
-.xx-year:visited{color: #ff0000;}
-.xx-rate:visited{color: #ff0000;}
+.xx-age:hover{color: #c62048;}
+.xx-year:hover{color: #c62048;}
+.xx-rate:hover{color: #c62048;}
+.fa-youtube:hover{color: #ff0000;}
 
 .xx-ar {
 font-size: 13px;
-display:nmone;
   }
 .xx-t1, .xx-t2, .xx-t3, .xx-ts, .nsv-0, .nsv-1, .nsv-2, .nsv-3, .nsv-4, .nsv-5 {
 font-size: 13px;
@@ -120,7 +126,7 @@ margin-bottom:7px;
 }
 .xx-fbm:before {content: "عائلي دموي منحرف";}
 .xx-t1:before {content:"بيانات الأنمي ";}
-.xx-t2:before {content:"التصنيفات ";}
+.xx-t2:before {content:" تصنيفات الأنمي ";}
 .xx-tx1:before {content:"أشهر الأنميات ";}
 .xx-tx2:before {content:"أحدث الأنميات ";}
 .xx-t3:before {content:"القصة ";}
@@ -134,16 +140,16 @@ margin-bottom:7px;
   text-align: center;
   line-height: 3px;
   font-family: Cairo;
-  margin:10px 0px 10px 0px;
+  margin:0px 0px 10px 0px;
   }
 #mpgx {
   width: 100%;
-  background-color: #000;
+  background-color: #383838;
   BORDER-radius:30px;
   margin:8px 0;}
 #mnh, #fam, #bld {
   height: 10px;
-  background-color: #e40e42;
+  background-color: #c62048;
   BORDER-radius:30px;}
 .xx-fbm {font-size:12px; width:50px; font-weight:bold; line-height:20px;}
 .xx-yt {font-size:30px; background-color:#f0f2f5; border-radius:62px; width:62px; box-shadow:rgb(0 0 0 / 40%) 0px 0px 1px 1px;}
@@ -224,15 +230,17 @@ margin-bottom:7px;
 
 
 /* Don't touch my xx-icons BAKA. The.mdo founder of klaster 16-09-2021 */
-.fa-caret-down {color: #e82525; font-size: 20px;}
-.fa-caret-down {color: #e82525; font-size: 20px;}
+.fa-caret-down {
+  color: #c62048; 
+  font-size: 25px;    
+  top: -5px;
+  position: relative;}
 td, th {padding: 0px;}
-.fa-youtube {color: #e40e42;}
+.fa-youtube {color: #c62048;}
 
 .xxic1::before {
         font-family: "Font Awesome 5 Free";
         content: "\f04b";
-        color: #fff;
       }
 .xxic2::before {
         font-family: "Font Awesome 5 Free";
@@ -345,82 +353,16 @@ td, th {padding: 0px;}
       }
   
 .tag-harem, .tag-action, .tag-shounen, .tag-sports, .tag-games, .tag-micha, .tag-ecchi, .tag-shoujou, .tag-sci-fi, .tag-drama, .tag-demons, .tag-army, .tag-fantasy, .tag-comedy, .tag-mystery, .tag-vampire, .tag-unn, .tag-history, .tag-nlife, .tag-seinen, .tag-romance, .tag-romance, .tag-super, .tag-powers, .tag-horror, .tag-psycho, .tag-school, .tag-music, .tag-thriller, .tag-crime, .tag-shoujo, .tag-police, .tag-jussi, .tag-thriller, .tag-isekai, .tag-magic, .tag-fights, .tag-nlife, .tag-adventure, .tag-VG, .tag-animeism, .tag-manga, .tag-BR, .tag-HSG, .tag-manga, .tag-short, .tag-chinese, .tag-novel, .tag-manga, .tag-manga, .tag-gl, .tag-original, .tag-hsg, .tag-vg:before {
-    font-size: 11px;
-    font-family: Cairo;
-    background-color: #292a30;
-    color: #fff;
-    border-radius: 15px;
-    padding: 0px 6px;
-    margin: 2px;
-    border: 1px solid #ffffff4a;
+    display: none;
 }
 .simil:before {content:"نسبة الشبه ";}
 .seas:before {content: "الموسم ";}
 .score:before {content: "المرتبة ";}
 .box-sim:before {content: "أنميات مشابهة ";}
-
-
-
-
 .xx-fbm:before {content: "عائلي دموي منحرف";}
 
 
-.tag-manga:before {content: "مبني على مانجا";}
-.tag-vg:before {content: "مبني على لعبة.فيديو";}
-.tag-novel:before {content: "مبني على رواية";}
-.tag-original:before {content: "عمل أصلي";}
 
-.tag-gl:before {content: "حب بين فتاتين";}
-.tag-hsg:before {content: "ألعاب مميتة";}
-.tag-action:before {content: "اكشن";}
-
-.tag-short:before {content: "حلقات قصيرة";}
-.tag-chinese:before {content: "صيني";}
-.tag-action:before {content: "اكشن";}
-.ak-jap:before {content: "ياباني";}
-.ak-eng:before {content: "انجليزي";}
-.tag-sports:before {content: "رياضي";}
-.tag-shounen:before {content: "شونين";}
-.tag-drama:before {content: "دراما";}
-.tag-army:before {content: "عسكري";}
-.tag-demons:before {content: "شياطين";}
-.tag-fantasy:before {content: "فانتازيا";}
-.tag-mystery:before {content: "غموض";}
-.tag-comedy:before {content: "كوميدي";}
-.tag-vampire:before {content: "مصاصي_دماء";}
-.tag-unn:before {content: "خارق_للطبيعة";}
-.tag-history:before {content: "تاريخي";}
-.tag-seinen:before {content: "سينين";}
-.tag-romance:before {content: "رومانسي";}
-.tag-horror:before {content: "رعب";}
-.tag-psycho:before {content: "نفسي";}
-.tag-shoujo:before {content: "شوجو";}
-.tag-sci-fi:before {content: "خيال_علمي";}
-.tag-games:before {content: "العاب";}
-.tag-ecchi:before {content: "ايتشي";}
-.tag-micha:before {content: "ألات";}
-.tag-harem:before {content: "حريم";}
-.tag-fights:before {content: "فنون_قتال";}
-.tag-nlife:before {content: "شريحة_من_الحياة";}
-.tag-adventure:before {content: "مغامرات";}
-.tag-music:before {content: "موسيقي";}
-.tag-magic:before {content: "سحر";}
-.tag-powers:before {content: "قوى_خارقة";}
-.tag-school:before {content: "مدرسي";}
-.tag-crime:before {content: "جريمة";}
-.tag-shoujo a:before {content: "شوجو آي";}
-.tag-police:before {content: "بوليسي";}
-.tag-jussi:before {content: "جوسي";}
-.tag-thriller:before {content: "إثارة";}
-.tag-isekai:before {content: "إيسيكاي";}
-  
-  
-  
-  
-  
-  
-  
-  
   
   /* Don't touch my episodes BAKA. The.mdo founder of klaster 30-04-2022 */
 
@@ -431,7 +373,7 @@ td, th {padding: 0px;}
     list-style: none;
     background-color: #74747420;
     padding: 10px 10px;
-    margin: 15px 10px;
+    margin: 15px 3px;
     text-decoration: none;
     font-size: 16px;
     display: block;
@@ -471,6 +413,7 @@ td, th {padding: 0px;}
     border-radius: 15px;
     padding: 5px 8px;
     margin-right: 5px;
+    color: #fff;
 }
 .nsv-3, .nsv-5, .nsv-1 {
 font-size: 12px;
@@ -480,6 +423,7 @@ font-size: 12px;
     border-radius: 15px;
     padding: 5px 10px;
     margin-right: 0px;
+    color: #fff;
 }
 .xep {
   float: left;
@@ -493,8 +437,9 @@ font-size: 12px;
   border: none;
   outline: none;
   padding: 6px 8px;
-  background-image: linear-gradient(to left, #9a0a2d, #e40e42, #9a0a2d);
+  background-image: linear-gradient(to top right, #aa0029, #c62048);
   margin: 0;
+  color: #fff;
   border-radius: 20px;}
 
 .xx-mplay {
@@ -524,9 +469,79 @@ display: none;
 }
 
 .en {
-  padding: 0px;
+  padding: 5px 0px 0px 0px;
   float: right;
+  color: #808080;
 }
 .xep:hover .xep-content {
   display: block;
 }
+  .fa-caret-down, .xxic1, .xxic2, .xxic3 {
+  float: right;
+  margin: 0 5px;
+}
+
+
+.ak-but-s, .ak-but-h {
+    font-size: 14px;
+    color: #fff;
+    font-family: Cairo;
+    text-shadow: 2px 1px 2px #000;
+    background-image: linear-gradient(to top, #9a0a2d,  #e40e42);
+    border-radius: 15px;
+    padding: 4px 10px;
+    margin: 5px;
+    border: 1px #fff solid;
+}
+.xh, .ak-but-a,.nsv-0,.nsv-1,.ak-but-dr,.ak-but-ok,.nsv-0x,.nsv-1x,.nsv- {display:none}
+
+.main_div
+  {
+  text-align:center;
+  background: #00C492;
+  padding:20px; width: 400px;
+  }
+.inner_div
+  {
+  background: #fff;
+  margin-top:20px;
+  height: 100px;
+  }
+.sbuttons a
+  {
+    font-size: 14px;
+    background-color: #74747450;
+    padding: 0px 10px;
+    color: #fff;
+    border-radius: 40px
+  }
+.sbuttons a:hover
+  {
+    background-color: #c62048;
+    color: #fff;
+    border-radius: 40px
+  }
+.nstitle1:before {content:"الموسم الأول";}
+.nstitle1_5:before {content:"الجزء الثاني من الموسم 1";}
+.nstitle2:before {content:"الموسم الثاني";}
+.nstitle2_5:before {content:"الجزء الثاني من الموسم 2";}
+.nstitle3:before {content:"الموسم الثالث";}
+.nstitle4:before {content:"الموسم الرابع";}
+.nstitle5:before {content:"الموسم الخامس";}
+.nstitle6:before {content:"الموسم السادس ";}
+.nstitle7:before {content:"الموسم السابع";}
+.nschoose:before {content:"اختر الموسم :";}
+
+
+.nschoose {font-size: 14px;}
+.s-box {text-align: center}
+.s-info {width: 100%;
+  font-size: 13px;
+  text-align: right;
+  font-family: Cairo;
+  text-align: center;
+  }
+.s-year, .s-age, .s-rate {color: #c62048;}
+    
+    
+    
