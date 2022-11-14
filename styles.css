@@ -130,11 +130,16 @@ margin-bottom:7px;
 .xx-tx1:before {content:"أشهر الأنميات ";}
 .xx-tx2:before {content:"أحدث الأنميات ";}
 .xx-t3:before {content:"القصة ";}
+.sms-download:before {content:"تدور أحداث اللعبة الأصلية في عالم خيالي يسمى تيرا والذي يحتوي على أنماط الخيال العلمي الحديثة";}
 .nsv-1:before {content:"AK ";}
 .nsv-3:before {content:"SD ";}
 .nsv-5:before {content:"HD ";}
 .footer-msg:before {content:"U_U فرجة ممتعة ";}
-
+.sms-download{
+  font-size: 18px;
+  text-align: center;
+  font-family: Cairo;
+  }
 .xx-tags {width: 100%;
   font-size: 13px;
   text-align: center;
