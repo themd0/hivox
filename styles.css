@@ -547,6 +547,7 @@ display: none;
   text-align: center;
   }
 .s-year, .s-age, .s-rate {color: #c62048;}
-    
+    .fa-sort {font-size: 18px}
+    .fa.fa-play-circle {font-size: 14px}
     
     
