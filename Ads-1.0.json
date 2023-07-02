@@ -1,6 +1,6 @@
 {
-  "Enabled":false,
-  "AdMob_AdUnit":"ca-app-pub-3940256099942544/1033173712",
+  "Enabled":true,
+  "AdMob_AdUnit":"ca-app-pub-3940256099942544/5224354917",
   "Unity_GameId":"5333331",
   "Unity_AdUnit":"Interstitial_Android" 
 }
