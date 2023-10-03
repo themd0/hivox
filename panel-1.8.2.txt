@@ -1,0 +1,8 @@
+# iron:17a5df325;
+# iron-banner:no;
+# iron-inter:no;
+# force-redirect:yes;
+# show-update-banner:yes0;
+# update-url:https://www.anifox.net/2023/01/download-anifox-apk.html;
+# update-img:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCqNcxSo5-hsjz9Hb_ddffnOZBudLNvXXPOwWWSn0J1tioupz9T5OtQ3VpypDX721skv5FrI2Se0alqS5JCuSfCYcqJJlOGRoCSBXq7iSIi_hko6CSwYuSZ41X76nbSOJOOFLxooWw0h3acnTOQTsQi9zyeHuSEldLJYwByUN3FdsdAbWufmXc67xpLg/s700/app_banner.gif;
+# unity-id:x4196370;
