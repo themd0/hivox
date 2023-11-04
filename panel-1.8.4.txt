@@ -5,14 +5,5 @@
 # show-update-banner:yes;
 # update-url:https://t.me/hpress;
 # update-img:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigE3n2R16dGViWLAP4oCAq5zdJnpr7xc_7nDcE2h8fk3OOvZWTvdKXUe30mT2FAu-ou3MZjXrtRkno53z1JzDYac8nVBBEDqet0SCnvk270r3pmAu1dLfat3Rg_hii-FesQCFnnaRh9zHVMj_oml-YtgcwMJGPZHPXW1rleWoXYdY-V63w675p1UPkzMc/s600/app_banner.gif;
-# unity-id:x4196370;
-
-# iron:17a5df325;
-# iron-banner:no;
-# iron-inter:no;
-# force-redirect:yes0;
-# show-update-banner:yes;
-# update-url:https://t.me/hpress;
-# update-img:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigE3n2R16dGViWLAP4oCAq5zdJnpr7xc_7nDcE2h8fk3OOvZWTvdKXUe30mT2FAu-ou3MZjXrtRkno53z1JzDYac8nVBBEDqet0SCnvk270r3pmAu1dLfat3Rg_hii-FesQCFnnaRh9zHVMj_oml-YtgcwMJGPZHPXW1rleWoXYdY-V63w675p1UPkzMc/s600/app_banner.gif;
 # unity-id:4196370;
 # admob-id:ca-ap-p-pub-3940256099942544/1033173712;
