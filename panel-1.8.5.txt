@@ -8,4 +8,4 @@
 # unity-id:4196370;
 # admob-id:ca-xapp-pub-3940256099942544/1033173712;
 # popup-skip: yes;
-# direct-url: https://f-droid.org/repo/com.vincentengelsoftware.vesandroidimagecompare_40.apk;
+# direct-url: https://raw.githubusercontent.com/themd0/akl/master/ANIFOX-debug-v12.apk;
