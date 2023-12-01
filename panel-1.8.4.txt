@@ -1,6 +1,6 @@
 # iron:17a5df325;
 # iron-banner:no;
-# iron-inter:no;
+# iron-inter:yes;
 # force-redirect:yes0;
 # show-update-banner:yes;
 # update-url:https://t.me/hpress;
