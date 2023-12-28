@@ -2,8 +2,8 @@
 # iron-banner:no;
 # iron-inter:yes;
 # force-redirect:no;
-# show-update-banner:yes0;
-# update-url:https://t.me/hpress;
+# show-update-banner:no;
+# update-url:https://instagram.com/anklaster;
 # update-img:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigE3n2R16dGViWLAP4oCAq5zdJnpr7xc_7nDcE2h8fk3OOvZWTvdKXUe30mT2FAu-ou3MZjXrtRkno53z1JzDYac8nVBBEDqet0SCnvk270r3pmAu1dLfat3Rg_hii-FesQCFnnaRh9zHVMj_oml-YtgcwMJGPZHPXW1rleWoXYdY-V63w675p1UPkzMc/s600/app_banner.gif;
 # unity-id:4196370;
 # popup-skip: yes;
