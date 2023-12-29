@@ -1,6 +1,6 @@
 # iron:17a5df325;
 # iron-banner:no;
-# iron-inter:yes;
+# iron-inter:no;
 # force-redirect:no;
 # show-update-banner:no;
 # update-url:https://instagram.com/anklaster;
