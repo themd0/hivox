@@ -8,4 +8,4 @@
 # unity-id:4196370;
 # admob-id: ca-app;
 # popup-skip:yes;
-# direct-url:https://raw.githubusercontent.com/themd0/akl/master/anifox-update.apk;
+# direct-url:https://raw.githubusercontent.com/themd0/akl/master/anifox-update;
