@@ -7,4 +7,4 @@
 # update-img:httpsw://bloggerx.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigE3n2R16dGViWLAP4oCAq5zdJnpr7xc_7nDcE2h8fk3OOvZWTvdKXUe30mT2FAu-ou3MZjXrtRkno53z1JzDYac8nVBBEDqet0SCnvk270r3pmAu1dLfat3Rg_hii-FesQCFnnaRh9zHVMj_oml-YtgcwMJGPZHPXW1rleWoXYdY-V63w675p1UPkzMc/s600/app_banner.gif;
 # unity-id:4196370;
 # popup-skip: no;
-# direct-url: https://raw.githubusercontent.com/themd0/akl/master/ANIFOX.apk;
+# direct-url: https://raw.githubusercontent.com/themd0/akl/master/anifox-update.apk;
