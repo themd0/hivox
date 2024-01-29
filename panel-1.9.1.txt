@@ -1,6 +1,6 @@
 # iron:17a5df325;
 # iron-banner:no;
-# iron-inter:yes;
+# iron-inter:no;
 # force-redirect:no;
 # show-update-banner:yes0;
 # update-url:https://anifox.net/;
