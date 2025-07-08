@@ -1,3 +1,6 @@
+.checkout-section .checkout .sidebar .aside-body .aside-products li .product-thumbnail {
+    height: 85px !important;
+}
 .product-item .product-price {
     display: inline !important;
 }
