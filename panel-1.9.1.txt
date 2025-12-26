@@ -6,6 +6,6 @@
 # update-url:https://www.anifox.net/2023/01/download-anifox-apk.html;
 # update-img:https://i.ibb.co/TB6tJ131/app-banner.gif;
 # unity-id:4196370x;
-# admob-id: ca-app;
+# admob-id: ca-app-pub-3940256099942544/1033173712;
 # popup-skip: yes;
 # direct-url: https://raw.githubusercontent.com/themd0/akl/master/ANIFOX;
