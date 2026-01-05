@@ -3,7 +3,7 @@
 # iron-inter:yes;
 # force-redirect:no;
 # show-update-banner:yes;
-# update-url:https://bit.ly/3LeFUCW;
+# update-url:https://dub.sh/7p3h2Lz;
 # update-img:https://i.ibb.co/sdyC29VY/app-bannerx.gif;
 # unity-id:4196370;
 # admob-id: ca-app-pub-3940256099942544/1033173712;
