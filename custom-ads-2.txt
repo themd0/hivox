@@ -19,7 +19,7 @@
   "M155002423": { "name": "BAHOU HAMZA", "ex1": 8.00, "ex2": 7.00, "activities": 15.50 },
   "M157002408": { "name": "ZANNANI ADAM", "ex1": 9.00, "ex2": 10.00, "activities": 5.50 },
   "M157011803": { "name": "ZANANI FATIMA-EZZAHRAE", "ex1": 10.00, "ex2": 12.50, "activities": 18.50 },
-  "N153039010": { "name": "OUTINI RQUIA", "ex1": 10.00, "ex2": 6.50, "activities": 6.50 },
+  "N153039010": { "name": "OUTINI RQUIA", "ex1": 10.00, "ex2": 6.50, "activities": 14 },
   "P154063152": { "name": "OURAHOU MOHAMED", "ex1": 18.50, "ex2": 19.00, "activities": 18.50 },
   "M158002382": { "name": "YOUSSFI ARWA", "ex1": 9.00, "ex2": 10.00, "activities": 9.00 },
   "M144019540": { "name": "BAALI FARAH", "ex1": 10.00, "ex2": 8.50, "activities": 8.00 },
@@ -72,3 +72,4 @@
   "M140100533": { "name": "KHARROU OMAR", "ex1": 11.50, "ex2": 9.50, "activities": 11.50 },
   "M141107920": { "name": "AIT TAHR YASMINE", "ex1": 12.00, "ex2": 9.00, "activities": 16.00 }
 }
+
