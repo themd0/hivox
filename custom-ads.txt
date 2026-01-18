@@ -79,7 +79,7 @@
   "M144026251": { "name": "OUBRAN ZAKARIAE", "ex1": 12.50, "ex2": 7.50, "activities": 14.00 },
   "M144099720": { "name": "BOU-IDRA HAYTHAM", "ex1": 17.50, "ex2": 15.00, "activities": 17.50 },
   "M147092534": { "name": "OU BEN-ALLA KHADIJA", "ex1": 15.00, "ex2": 10.00, "activities": 15.50 },
-  "M148023856": { "name": "DAHMAN FATIMA", "ex1": 15.00, "ex2": 10.00, "activities": 15.50 },
+  "M148023856": { "name": "DAHMAN FATIMA", "ex1": 15.00, "ex2": 11.00, "activities": 15.50 },
   "M149089276": { "name": "KHISSI NEZHA", "ex1": 17.00, "ex2": 13.50, "activities": 19.50 },
   "N134118619": { "name": "ZIHA SOUAD", "ex1": 11.00, "ex2": 8.00, "activities": 14.50 },
   "N142112493": { "name": "MARBOUH RAJAE", "ex1": 12.50, "ex2": 10.50, "activities": 18.00 },
@@ -122,4 +122,5 @@
   "M130022323": { "name": "MANSOURI SAFAE", "ex1": 14.00, "ex2": 9.00, "activities": 14.00 },
   "M131451445": { "name": "BOUTAMARTE MOHAMED AMINE", "ex1": 10.00, "ex2": 7.00, "activities": 14.50 },
   "M143015973": { "name": "AIN TAGHZALTI GHIZLANE", "ex1": 9.50, "ex2": 9.50, "activities": 11.00 }
+
 }
