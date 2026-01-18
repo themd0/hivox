@@ -113,7 +113,7 @@
   "M158000463": { "name": "EL GHAZOUANI MOHAMED", "ex1": 11.50, "ex2": 9.00, "activities": 13.50 },
   "M143096921": { "name": "AIT BEN SAID MANAL", "ex1": 14.50, "ex2": 9.50, "activities": 11.50 },
   "M149101846": { "name": "BOULAHFA SOUAD", "ex1": 17.00, "ex2": 16.50, "activities": 18.50 },
-  "M141019451": { "name": "DAHMANE KHAWLA", "ex1": 11.00, "ex2": 9.00, "activities": 14.00 },
+  "M141019451": { "name": "DAHMANE KHAWLA", "ex1": 11.00, "ex2": 9.00, "activities": 15.00 },
   "M140041558": { "name": "OURAHOU SOUFIANE", "ex1": 13.00, "ex2": 10.50, "activities": 14.50 },
   "M130042065": { "name": "ABBAOUI ILYASS", "ex1": 9.00, "ex2": 5.00, "activities": 10.50 },
   "M149120629": { "name": "OUAMAR HAJAR", "ex1": 10.00, "ex2": 7.00, "activities": 11.50 },
@@ -124,3 +124,4 @@
   "M143015973": { "name": "AIN TAGHZALTI GHIZLANE", "ex1": 9.50, "ex2": 9.50, "activities": 11.00 }
 
 }
+
