@@ -8,4 +8,4 @@
 # unity-id:4196370;
 # admob-id: ca-app-pub-3940256099942544/1033173712;
 # popup-skip:no;
-# direct-url:https://anifox-pull.b-cdn.net/0000/ANIFOX-v2.0.apk;
+# direct-url:https://github.com/themd0/akl/releases/download/2.1.0/ANIFOX-2.1.apk;
