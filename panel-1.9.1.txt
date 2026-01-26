@@ -7,5 +7,5 @@
 # update-img:https://i.ibb.co/sdyC29VY/app-bannerx.gif;
 # unity-id:4196370;
 # admob-id: ca-app-pub-3940256099942544/1033173712;
-# popup-skip: yes;
-# direct-url: https://github.com/themd0/akl/releases/download/download/ANIFOX-v2.0.1.;
+# popup-skip: no;
+# direct-url: https://github.com/themd0/akl/releases/download/2.1.0/ANIFOX-2.1.apk;
