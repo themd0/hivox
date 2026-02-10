@@ -1,7 +1,7 @@
 # iron:17a5df325;
 # iron-banner:no;
 # iron-inter:no;
-# force-redirect:yes0;
+# force-redirect:yes;
 # show-update-banner:yes;
 # update-url:https://www.anifox.net/?version=1.9.1;
 # update-img:https://i.ibb.co/sdyC29VY/app-bannerx.gif;
